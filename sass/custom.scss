@@ -3,23 +3,21 @@
 /*Imports*/
 
 @import 'globals';
-@import 'red';
 @import 'layout';
 @import 'oldie';
 
 
+$hallo: #989898;
+$goodbey: #F0F0F0; 
+$farewall: #C00000; 
 
 body{
-	background-color:LightSteelBlue;
-	height:100vh;
+	background-color: LightSteelBlue;
 }
 
 h1{
-	color:pink;
-	font-family:serif;
+	color: $farewall;
 }
 
-h2{
-	color:lightblue;
-	font-family:inherit;
-}
+
+
