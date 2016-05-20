@@ -1,0 +1,25 @@
+/*Custom CSS*/
+
+/*Imports*/
+
+@import 'globals';
+@import 'red';
+@import 'layout';
+@import 'oldie';
+
+
+
+body{
+	background-color:LightSteelBlue;
+	height:100vh;
+}
+
+h1{
+	color:pink;
+	font-family:serif;
+}
+
+h2{
+	color:lightblue;
+	font-family:inherit;
+}
